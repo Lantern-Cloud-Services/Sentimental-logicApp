@@ -9,7 +9,7 @@
             "type": "String"
         },
         "connections_office365_externalid": {
-            "defaultValue": "/subscriptions/6fb87d2c-003e-4521-9140-440c992da525/resourceGroups/demo-aia-appdev-avnet-rg1/providers/Microsoft.Web/connections/office365",
+            "type": "String"
         }
     },
     "variables": {},
