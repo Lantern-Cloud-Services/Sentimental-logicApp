@@ -3,13 +3,13 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "workflows_demo_aia_appdev_avnet_la1_name": {
-            "value": null
+            "value": "demo-aia-appdev-avnet-la1"
         },
         "connections_cognitiveservicestextanalytics_externalid": {
-            "value": null
+            "value": "/subscriptions/6fb87d2c-003e-4521-9140-440c992da525/resourceGroups/demo-aia-appdev-avnet-rg1/providers/Microsoft.Web/connections/cognitiveservicestextanalytics"
         },
         "connections_office365_externalid": {
-            "value": null
+            "value": "/subscriptions/6fb87d2c-003e-4521-9140-440c992da525/resourceGroups/demo-aia-appdev-avnet-rg1/providers/Microsoft.Web/connections/office365"
         }
     }
 }
