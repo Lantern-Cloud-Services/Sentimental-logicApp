@@ -88,7 +88,7 @@
                                         "inputs": {
                                             "body": {
                                                 "Body": "<p>You just recieved a Negative review :(<br>\n<br>\nProduct: @{triggerBody()?['product']}<br>\nScore: @{body('Detect_Sentiment')?['score']}<br>\nReview: @{triggerBody()?['Review']}</p>",
-                                                "Subject": "Negative Product Review",
+                                                "Subject": "Negative Product Review submitted",
                                                 "To": "jasonCoo@onemtc.net"
                                             },
                                             "host": {
